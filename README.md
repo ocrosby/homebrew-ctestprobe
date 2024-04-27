@@ -30,7 +30,7 @@ brew update
 Upgrade the installed formulae with
 
 ```bash
-brew upgrade
+brew upgrade ctestprobe
 ```
 
 Removing the tap

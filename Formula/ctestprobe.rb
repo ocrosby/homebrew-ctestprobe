@@ -6,10 +6,10 @@ class Ctestprobe < Formula
   homepage "https://github.com/ocrosby/ctestprobe"
 
   # Define the version number
-  version "1.0.0" # Replace with the version number of your library
+  version "1.0.4" # Replace with the version number of your library
 
   # Interpolate the version number into the URL
-  url "https://github.com/ocrosby/ctestprobe/archive/v#{version}.tar.gz" # Replace with the URL to your tarball
+  url "https://github.com/ocrosby/ctestprobe/archive/project-v#{version}.tar.gz" # Replace with the URL to your tarball
 
   # Fetch the tarball and compute its SHA256 sum
   tarball = open(url)
